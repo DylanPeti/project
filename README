@@ -1,3 +1,7 @@
+<<<<<<< HEAD
   1 HI THERE people, this is the master branch readme file
+=======
+  1 HI THERE people, welcome to git
+>>>>>>> bug-fix-one
   2 This is my second change
   3. working on the diff command
